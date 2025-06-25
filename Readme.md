@@ -28,8 +28,7 @@ Este repositorio es parte de mi compromiso diario para mejorar y crecer como des
 
 ## 🧩 Estado actual
 
-✔ Proyecto 1: **Quiz con cronómetro y respuestas básicas**  
-🕐 Próximamente: validaciones, animaciones y consumo de APIs
+✔ Proyecto 1: **Quiz con cronómetro y respuestas básicas**
 
 ---
 
