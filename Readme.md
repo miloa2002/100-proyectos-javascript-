@@ -29,6 +29,7 @@ Este repositorio es parte de mi compromiso diario para mejorar y crecer como des
 ## 🧩 Estado actual
 
 ✔ Proyecto 1: **Quiz con cronómetro y respuestas básicas**
+✔ Proyecto 2: **Reproductor de música con funciones básicas**
 
 ---
 
